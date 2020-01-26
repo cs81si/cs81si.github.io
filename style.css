@@ -67,7 +67,7 @@ h3 {
 }
 
 .instructor {
-  display: inline-block;
+/*  display: inline-block;*/
   width: 140px;
   text-align: center;
   margin-right: 20px;
