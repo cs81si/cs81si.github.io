@@ -54,6 +54,14 @@ h3 {
   margin-bottom: 10px;
 }
 
+img.headshot {
+height: 100px;
+width: 100px;
+border-radius: 100px;
+margin-left: 10px;
+}
+
+
 .logo-left {
   height:60px;
   float: left;
